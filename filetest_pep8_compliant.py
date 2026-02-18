@@ -1,5 +1,7 @@
 import pytest
 
+# Tests for basic arithmetic operations and a greeting message.
+
 
 def test_calc_addition():
     """Test du résultat de 2 + 4."""
