@@ -1,5 +1,3 @@
-import pytest
-
 # Tests for basic arithmetic operations and a greeting message.
 
 
